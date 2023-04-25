@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://metrics.lecoq.io/ideameshdyx?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-![IdeaMeshDyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideameshdyx&show_icons=true&theme=radical)
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=ideameshdyx&show_icons=true&theme=radical"></div>
+
+<div align="center">  <img src="https://streak-stats.demolab.com?user=ideameshdyx&theme=dark&mode=weekly"></div>
+
 
